@@ -1,0 +1,11 @@
+*{ margin: 0; padding: 0; box-sizing: 0;}
+
+.heading {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: blue;
+    font-family: 'Josefin Sans', sans-serif;
+   
+}
